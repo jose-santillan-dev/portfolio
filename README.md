@@ -28,7 +28,7 @@ Busco oportunidades **junior o trainee**, remoto o híbrido.
 ---
 
 ### 🚦 Traffic Fine Management System
-🔗 https://github.com/astralsandwinch6324/traffic-fine-management-system
+🔗 [View repository](https://github.com/jose-santillan-dev/traffic-fine-management-system)
 
 - ASP.NET web application
 - SQLite database
