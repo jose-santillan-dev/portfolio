@@ -27,12 +27,13 @@ Busco oportunidades **junior o trainee**, remoto o híbrido.
 
 ---
 
-### 🚦 Registro de Accidentes de Tránsito
-🔗 [Ver repositorio](https://github.com/tuusuario/blazor-accident-report)
+### 🚦 Traffic Fine Management System
+🔗 https://github.com/astralsandwinch6324/traffic-fine-management-system
 
-- Blazor WebAssembly
-- SQLite
-- Persistencia de datos
+- ASP.NET web application
+- SQLite database
+- Traffic fine registration and management
+- Academic team project
 
 ---
 
