@@ -18,12 +18,15 @@ Busco oportunidades **junior o trainee**, remoto o híbrido.
 
 ## 📂 Proyectos Destacados
 
-### 📚 (nombre del proyecto)
-🔗 [Ver repositorio](url)
+### 🛒 Blazor POS System
+🔗 https://github.com/jose-santillan-dev/blazor-pos-system
 
-- CRUD de libros y usuarios
-- Base de datos SQL Server
-- Arquitectura simple y clara
+- Web-based Point of Sale (POS) system
+- Product and inventory management
+- Sales registration
+- Built with C# and Blazor
+- Academic team project
+
 
 ---
 
