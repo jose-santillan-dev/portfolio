@@ -40,14 +40,15 @@ Busco oportunidades **junior o trainee**, remoto o híbrido.
 
 ---
 
-### 🧪 Automatización con Selenium
-🔗 [Ver repositorio](https://github.com/tuusuario/selenium-blazor-tests)
+### 🧪 courier-management-system-with-selenium
+🔗 [Ver repositorio](https://github.com/jose-santillan-dev/courier-management-system-with-selenium)
 
-- Pruebas automatizadas E2E
-- Manejo de IDs dinámicos
+Courier Management System built with ASP.NET and automated end-to-end tests using Selenium WebDriver. The project includes a functional web application and UI test automation following real-world testing practices.
 
 ---
 
 ## 📫 Contacto
-📧 Email: 20231156@itla.edu.do  
-🔗 LinkedIn: (cuando lo tengas)
+📧 Outlook: 20231156@itla.edu.do
+📧 Gmail: garciasantillanjosemanuel@gmail.com
+🔗 LinkedIn: [LinkedIn] (https://www.linkedin.com/in/jose-manuel-garcia-santillan-766747385/)
+🔗 [Telegram] (https://t.me/jose_M1156)
