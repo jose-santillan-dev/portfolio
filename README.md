@@ -50,5 +50,5 @@ Courier Management System built with ASP.NET and automated end-to-end tests usin
 ## 📫 Contacto
 📧 Outlook: 20231156@itla.edu.do
 📧 Gmail: garciasantillanjosemanuel@gmail.com
-🔗 LinkedIn: [LinkedIn] (https://www.linkedin.com/in/jose-manuel-garcia-santillan-766747385/)
+🔗 [LinkedIn] (https://www.linkedin.com/in/jose-manuel-garcia-santillan-766747385/)
 🔗 [Telegram] (https://t.me/jose_M1156)
