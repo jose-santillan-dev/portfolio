@@ -2,7 +2,7 @@
 ### Junior Software Developer (.NET / Blazor)
 
 Desarrollador junior con enfoque en aplicaciones web usando C#, Blazor y bases de datos.
-Busco oportunidades **junior o trainee**, remoto o híbrido.
+Busco oportunidades **junior o trainee**.
 
 ---
 
