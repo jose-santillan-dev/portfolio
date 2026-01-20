@@ -51,7 +51,7 @@ Courier Management System built with ASP.NET and automated end-to-end tests usin
 
 - **IT Essentials: PC Hardware and Software**  
   Cisco Networking Academy (2023)
-[View Certificate (PDF)](certifications/IT_Essentials.pdf)
+[View Certificate (PDF)](certifications/IT_Essentials_certificate_20231156-itla-edu-do_c6fa32fe-4b44-43be-a352-68909a8c7e33.pdf)
 
 ---
 
