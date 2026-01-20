@@ -47,6 +47,14 @@ Courier Management System built with ASP.NET and automated end-to-end tests usin
 
 ---
 
+## Certifications
+
+- **IT Essentials: PC Hardware and Software**  
+  Cisco Networking Academy (2023)
+[View Certificate (PDF)](certifications/IT_Essentials.pdf)
+
+---
+
 ## 📫 Contacto
 📧 Outlook: 20231156@itla.edu.do
 📧 Gmail: garciasantillanjosemanuel@gmail.com
