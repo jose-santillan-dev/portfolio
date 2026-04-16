@@ -1,7 +1,7 @@
 #  José Manuel Santillan
 ### Software Developer / Desarrollador de Software
 
-Desarrollador de Softwarecon conocimientos en programación y desarrollo de aplicaciones. He trabajado con tecnologías como C#, .NET, HTML5, CSS3, Phyton basico, Blazor, bases de datos como SQLITE, MySQL, SQLServer, JavaScript y desarrollo web, lo que me ha permitido adquirir una base sólida y práctica en el área.
+Desarrollador de Software con conocimientos en programación y desarrollo de aplicaciones. He trabajado con tecnologías como C#, .NET, HTML5, CSS3, Phyton basico, Blazor, bases de datos como SQLITE, MySQL, SQLServer, JavaScript y desarrollo web, lo que me ha permitido adquirir una base sólida y práctica en el área.
 
 ---
 
